@@ -1,0 +1,9 @@
+Hangman Rules!!!
+
+1 Plaver vs  Computer
+
+//Write Rules here
+
+1 Plaver vs 2 Plaver
+
+//Write Rules here
